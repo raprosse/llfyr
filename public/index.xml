@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on Llyfr</title><link>http://localhost:1313/</link><description>Recent content in Introduction on Llyfr</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/><item><title>I am...</title><link>http://localhost:1313/docs/example/table-of-contents/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/example/table-of-contents/about/</guid><description>&lt;h1 id="caput-vino-delphine-in-tamen-vias">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on Llyfr</title><link>https://example.org/</link><description>Recent content in Introduction on Llyfr</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>I am...</title><link>https://example.org/docs/introduction/table-of-contents/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/introduction/table-of-contents/about/</guid><description>&lt;h1 id="caput-vino-delphine-in-tamen-vias">
  Caput vino delphine in tamen vias
  &lt;a class="anchor" href="#caput-vino-delphine-in-tamen-vias">#&lt;/a>
 &lt;/h1>
@@ -27,7 +27,7 @@ nativum&lt;/a>.&lt;/p>
 &lt;/h2>
 &lt;p>Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra
 Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera
-excutiunt concipit.&lt;/p></description></item><item><title>now</title><link>http://localhost:1313/docs/example/table-of-contents/now/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/example/table-of-contents/now/</guid><description>&lt;h1 id="caput-vino-delphine-in-tamen-vias">
+excutiunt concipit.&lt;/p></description></item><item><title>now</title><link>https://example.org/docs/introduction/table-of-contents/now/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/introduction/table-of-contents/now/</guid><description>&lt;h1 id="caput-vino-delphine-in-tamen-vias">
  Caput vino delphine in tamen vias
  &lt;a class="anchor" href="#caput-vino-delphine-in-tamen-vias">#&lt;/a>
 &lt;/h1>
@@ -56,10 +56,10 @@ nativum&lt;/a>.&lt;/p>
 &lt;/h2>
 &lt;p>Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra
 Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera
-excutiunt concipit.&lt;/p></description></item><item><title/><link>http://localhost:1313/docs/example/hidden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/example/hidden/</guid><description>&lt;h1 id="this-page-is-hidden-in-menu">
+excutiunt concipit.&lt;/p></description></item><item><title/><link>https://example.org/docs/introduction/hidden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/introduction/hidden/</guid><description>&lt;h1 id="this-page-is-hidden-in-menu">
  This page is hidden in menu
  &lt;a class="anchor" href="#this-page-is-hidden-in-menu">#&lt;/a>
-&lt;/h1></description></item><item><title>20250317</title><link>http://localhost:1313/posts/2025_03_17/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/posts/2025_03_17/</guid><description>&lt;ul>
+&lt;/h1></description></item><item><title>20250317</title><link>https://example.org/posts/2025_03_17/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/posts/2025_03_17/</guid><description>&lt;ul>
 &lt;li>#Blog
 &lt;ul>
 &lt;li>#Books:

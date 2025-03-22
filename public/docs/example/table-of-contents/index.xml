@@ -1,59 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Llyfr</title><link>http://localhost:1313/docs/example/table-of-contents/</link><description>Recent content on Llyfr</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/docs/example/table-of-contents/index.xml" rel="self" type="application/rss+xml"/><item><title>I am...</title><link>http://localhost:1313/docs/example/table-of-contents/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/example/table-of-contents/about/</guid><description>&lt;h1 id="caput-vino-delphine-in-tamen-vias">
- Caput vino delphine in tamen vias
- &lt;a class="anchor" href="#caput-vino-delphine-in-tamen-vias">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="cognita-laeva-illo-fracta">
- Cognita laeva illo fracta
- &lt;a class="anchor" href="#cognita-laeva-illo-fracta">#&lt;/a>
-&lt;/h2>
-&lt;p>Lorem markdownum pavent auras, surgit nunc cingentibus libet &lt;strong>Laomedonque que&lt;/strong>
-est. Pastor &lt;a href="http://est.org/ire.aspx">An&lt;/a> arbor filia foedat, ne &lt;a href="http://www.indiciumturbam.org/moramquid.php">fugit
-aliter&lt;/a>, per. Helicona illas et
-callida neptem est &lt;em>Oresitrophos&lt;/em> caput, dentibus est venit. Tenet reddite
-&lt;a href="http://www.antro-et.net/">famuli&lt;/a> praesentem fortibus, quaeque vis foret si
-frondes &lt;em>gelidos&lt;/em> gravidae circumtulit &lt;a href="http://incurvasustulit.io/illi-virtute.html">inpulit armenta
-nativum&lt;/a>.&lt;/p>
-&lt;ol>
-&lt;li>Te at cruciabere vides rubentis manebo&lt;/li>
-&lt;li>Maturuit in praetemptat ruborem ignara postquam habitasse&lt;/li>
-&lt;li>Subitarum supplevit quoque fontesque venabula spretis modo&lt;/li>
-&lt;li>Montis tot est mali quasque gravis&lt;/li>
-&lt;li>Quinquennem domus arsit ipse&lt;/li>
-&lt;li>Pellem turis pugnabant locavit&lt;/li>
-&lt;/ol>
-&lt;h2 id="natus-quaerere">
- Natus quaerere
- &lt;a class="anchor" href="#natus-quaerere">#&lt;/a>
-&lt;/h2>
-&lt;p>Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra
-Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera
-excutiunt concipit.&lt;/p></description></item><item><title>now</title><link>http://localhost:1313/docs/example/table-of-contents/now/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/docs/example/table-of-contents/now/</guid><description>&lt;h1 id="caput-vino-delphine-in-tamen-vias">
- Caput vino delphine in tamen vias
- &lt;a class="anchor" href="#caput-vino-delphine-in-tamen-vias">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="cognita-laeva-illo-fracta">
- Cognita laeva illo fracta
- &lt;a class="anchor" href="#cognita-laeva-illo-fracta">#&lt;/a>
-&lt;/h2>
-&lt;p>Lorem markdownum pavent auras, surgit nunc cingentibus libet &lt;strong>Laomedonque que&lt;/strong>
-est. Pastor &lt;a href="http://est.org/ire.aspx">An&lt;/a> arbor filia foedat, ne &lt;a href="http://www.indiciumturbam.org/moramquid.php">fugit
-aliter&lt;/a>, per. Helicona illas et
-callida neptem est &lt;em>Oresitrophos&lt;/em> caput, dentibus est venit. Tenet reddite
-&lt;a href="http://www.antro-et.net/">famuli&lt;/a> praesentem fortibus, quaeque vis foret si
-frondes &lt;em>gelidos&lt;/em> gravidae circumtulit &lt;a href="http://incurvasustulit.io/illi-virtute.html">inpulit armenta
-nativum&lt;/a>.&lt;/p>
-&lt;ol>
-&lt;li>Te at cruciabere vides rubentis manebo&lt;/li>
-&lt;li>Maturuit in praetemptat ruborem ignara postquam habitasse&lt;/li>
-&lt;li>Subitarum supplevit quoque fontesque venabula spretis modo&lt;/li>
-&lt;li>Montis tot est mali quasque gravis&lt;/li>
-&lt;li>Quinquennem domus arsit ipse&lt;/li>
-&lt;li>Pellem turis pugnabant locavit&lt;/li>
-&lt;/ol>
-&lt;h2 id="natus-quaerere">
- Natus quaerere
- &lt;a class="anchor" href="#natus-quaerere">#&lt;/a>
-&lt;/h2>
-&lt;p>Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra
-Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera
-excutiunt concipit.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Llyfr</title>
+    <link>http://localhost:1313/docs/example/table-of-contents/</link>
+    <description>Recent content on Llyfr</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/docs/example/table-of-contents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I am...</title>
+      <link>http://localhost:1313/docs/example/table-of-contents/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/example/table-of-contents/about/</guid>
+      <description>&lt;h1 id=&#34;caput-vino-delphine-in-tamen-vias&#34;&gt;&#xA;  Caput vino delphine in tamen vias&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#caput-vino-delphine-in-tamen-vias&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;cognita-laeva-illo-fracta&#34;&gt;&#xA;  Cognita laeva illo fracta&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cognita-laeva-illo-fracta&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum pavent auras, surgit nunc cingentibus libet &lt;strong&gt;Laomedonque que&lt;/strong&gt;&#xA;est. Pastor &lt;a href=&#34;http://est.org/ire.aspx&#34;&gt;An&lt;/a&gt; arbor filia foedat, ne &lt;a href=&#34;http://www.indiciumturbam.org/moramquid.php&#34;&gt;fugit&#xA;aliter&lt;/a&gt;, per. Helicona illas et&#xA;callida neptem est &lt;em&gt;Oresitrophos&lt;/em&gt; caput, dentibus est venit. Tenet reddite&#xA;&lt;a href=&#34;http://www.antro-et.net/&#34;&gt;famuli&lt;/a&gt; praesentem fortibus, quaeque vis foret si&#xA;frondes &lt;em&gt;gelidos&lt;/em&gt; gravidae circumtulit &lt;a href=&#34;http://incurvasustulit.io/illi-virtute.html&#34;&gt;inpulit armenta&#xA;nativum&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Te at cruciabere vides rubentis manebo&lt;/li&gt;&#xA;&lt;li&gt;Maturuit in praetemptat ruborem ignara postquam habitasse&lt;/li&gt;&#xA;&lt;li&gt;Subitarum supplevit quoque fontesque venabula spretis modo&lt;/li&gt;&#xA;&lt;li&gt;Montis tot est mali quasque gravis&lt;/li&gt;&#xA;&lt;li&gt;Quinquennem domus arsit ipse&lt;/li&gt;&#xA;&lt;li&gt;Pellem turis pugnabant locavit&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;natus-quaerere&#34;&gt;&#xA;  Natus quaerere&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#natus-quaerere&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra&#xA;Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera&#xA;excutiunt concipit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>now</title>
+      <link>http://localhost:1313/docs/example/table-of-contents/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/example/table-of-contents/now/</guid>
+      <description>&lt;h1 id=&#34;caput-vino-delphine-in-tamen-vias&#34;&gt;&#xA;  Caput vino delphine in tamen vias&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#caput-vino-delphine-in-tamen-vias&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;cognita-laeva-illo-fracta&#34;&gt;&#xA;  Cognita laeva illo fracta&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cognita-laeva-illo-fracta&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum pavent auras, surgit nunc cingentibus libet &lt;strong&gt;Laomedonque que&lt;/strong&gt;&#xA;est. Pastor &lt;a href=&#34;http://est.org/ire.aspx&#34;&gt;An&lt;/a&gt; arbor filia foedat, ne &lt;a href=&#34;http://www.indiciumturbam.org/moramquid.php&#34;&gt;fugit&#xA;aliter&lt;/a&gt;, per. Helicona illas et&#xA;callida neptem est &lt;em&gt;Oresitrophos&lt;/em&gt; caput, dentibus est venit. Tenet reddite&#xA;&lt;a href=&#34;http://www.antro-et.net/&#34;&gt;famuli&lt;/a&gt; praesentem fortibus, quaeque vis foret si&#xA;frondes &lt;em&gt;gelidos&lt;/em&gt; gravidae circumtulit &lt;a href=&#34;http://incurvasustulit.io/illi-virtute.html&#34;&gt;inpulit armenta&#xA;nativum&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Te at cruciabere vides rubentis manebo&lt;/li&gt;&#xA;&lt;li&gt;Maturuit in praetemptat ruborem ignara postquam habitasse&lt;/li&gt;&#xA;&lt;li&gt;Subitarum supplevit quoque fontesque venabula spretis modo&lt;/li&gt;&#xA;&lt;li&gt;Montis tot est mali quasque gravis&lt;/li&gt;&#xA;&lt;li&gt;Quinquennem domus arsit ipse&lt;/li&gt;&#xA;&lt;li&gt;Pellem turis pugnabant locavit&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;natus-quaerere&#34;&gt;&#xA;  Natus quaerere&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#natus-quaerere&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra&#xA;Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera&#xA;excutiunt concipit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
